@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4FEE730-6752-453A-982E-B9A0D728FA00}"
 	ProjectSection(SolutionItems) = preProject
 		arr_init_print.asm = arr_init_print.asm
+		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
 Global
