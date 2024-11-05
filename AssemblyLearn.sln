@@ -7,8 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		arr_init_print.asm = arr_init_print.asm
 		func_init_arr_and_sum.asm = func_init_arr_and_sum.asm
+		cin.asm = cin.asm
 		func.asm = func.asm
 		test_exam.asm = test_exam.asm
+		loop2.asm = loop2.asm
+		loop1.asm = loop1.asm
 	EndProjectSection
 EndProject
 Global
